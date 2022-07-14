@@ -1,20 +1,13 @@
 # vue-router-tab-sample
 
-[**Github**](https://github.com/bhuh12/vue-router-tab)
-
-[**Documentation**](https://bhuh12.github.io/vue-router-tab/) ([Gitee](https://bhuh12.gitee.io/vue-router-tab/))
-
-[**Demo**](https://bhuh12.github.io/vue-router-tab/demo/) ([Gitee](https://bhuh12.gitee.io/vue-router-tab/demo/))
-
-[**CodeSandbox**](https://codesandbox.io/s/github/bhuh12/router-tab-sample)
-
-<iframe
-  src="https://codesandbox.io/embed/github/bhuh12/router-tab-sample/tree/main/?fontsize=14&hidenavigation=1&theme=dark"
-  style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-  title="router-tab-sample"
-  allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb"
-  sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"
-></iframe>
+## 使用的组件版本
+- vue 2.x
+- element-ui 2.15.7
+  - https://element.eleme.cn/#/zh-CN/component/menu
+- vxe-table 2.6
+  - https://vxetable.cn/v3/#/table/module/list
+- vue router tab
+  - https://bhuh12.gitee.io/vue-router-tab/zh/guide/
 
 ## Project setup
 
